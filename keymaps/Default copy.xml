@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
+</keymap>
