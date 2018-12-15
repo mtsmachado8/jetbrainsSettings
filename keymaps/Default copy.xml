@@ -6,5 +6,4 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
-  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
 </keymap>
