@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="token-expired-401" type="PLAIN_TEXT" />
+      <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
