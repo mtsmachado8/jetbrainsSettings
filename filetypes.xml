@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="r-user-exercises" type="PLAIN_TEXT" />
       <mapping pattern="token-expired-401" type="PLAIN_TEXT" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
